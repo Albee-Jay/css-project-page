@@ -5,4 +5,4 @@ This a CSS Project Page I built with the LinkedIn Learning CSS Essential Trainin
 
 See the live project here: https://albee-jay.github.io/css-project-page/
 
-I welcome any and all comments or advice to help me make this project better. Thaank you, Albee-Jay
+I welcome and appreciate any and all comments or help to make this project better. Thank You, Albee-Jay.
